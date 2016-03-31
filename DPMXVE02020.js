@@ -1,6 +1,11 @@
 function showMenssage(mensaje){
 
-alert("mensaje : "+ mensaje);
+alert("Aviso "+ mensaje + "favor de contactar con el administrador");
+}
 
+
+function inicio(){
+if(){
+}
 
 }
