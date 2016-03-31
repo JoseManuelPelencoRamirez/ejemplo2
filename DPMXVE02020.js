@@ -1,11 +1,17 @@
 function showMenssage(mensaje){
 
-alert("Aviso "+ mensaje + "favor de contactar con el administrador");
+alert("Aviso "+\n mensaje);
 }
 
 
 function inicio(){
 if(){
 }
+
+}
+
+function enviarDatos(){
+var radio = 
+document.getElementByID("check1").value;
 
 }
